@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All the proceedings of His Excellency the Earl of Essex, from the 1. of October to the 14. Being a true relation of divers skirmishes which happened between the Earle of Essex his forces and the cavaliers in the foresaid time. Also a true relation of the taking of divers forts and castles by the said Earle. Likewise a true relation of the taking of nine boats laden with ammunition by the Parliaments forces upon the river Severne as it was going to Shrewsbury.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76049</idno>
+            <idno type="STC">Wing A947</idno>
+            <idno type="STC">Thomason E122_8</idno>
+            <idno type="STC">ESTC R16926</idno>
+            <idno type="EEBO-CITATION">99860116</idno>
+            <idno type="PROQUEST">99860116</idno>
+            <idno type="VID">112223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112223)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E122[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All the proceedings of His Excellency the Earl of Essex, from the 1. of October to the 14. Being a true relation of divers skirmishes which happened between the Earle of Essex his forces and the cavaliers in the foresaid time. Also a true relation of the taking of divers forts and castles by the said Earle. Likewise a true relation of the taking of nine boats laden with ammunition by the Parliaments forces upon the river Severne as it was going to Shrewsbury.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Th. Tompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 14. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112223:1" rendition="simple:additions"/>
+            <p>ALL THE PROCEEDINGS <hi>OF</hi> HIS EXCELLENCY THE EARL OF ESSEX, From the 1. of October to the 14.</p>
+            <p>
+               <hi>BEING</hi> A true Relation of divers Skirmiſhes which happened between the Earle of <hi>Eſſex</hi> his Forces and the Cavaliers in the foreſaid time.</p>
+            <p>Alſo a true Relation of the taking of divers Forts and Caſtles by the ſaid Earle. Likewiſe a true Relation of the taking of nine Boats laden with Ammunition by the Parliaments Forces upon the river <hi>Severne</hi> as it was going to <hi>Shrewsbury.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Printed for</hi> Th. Tompſon. <hi>October</hi> 14. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112223:2"/>
+            <pb n="1" facs="tcp:112223:2"/>
+            <head>All the Proceedings of his Excellency, the Earle of ESSEX, <hi>From the</hi> 1. <hi>of October to the</hi> 12.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He cauſe of my writing to you is, that becauſe the time is ſo troubleſome, I will only certifie you what hath hap<g ref="char:EOLhyphen"/>pened here theſe 11. dayes laſt paſt. This day there was great preparation made for His Majeſties welcome to <hi>Shrewsbury:</hi> the lodg<g ref="char:EOLhyphen"/>ings are all beſpoke and taken up already: for here are now 4500. ſouldiers in and neer adjoyn<g ref="char:EOLhyphen"/>ing, where they are billeted. His Majeſty ſtayed here but one night, but went towards <hi>Cheſter</hi> to a place called <hi>Whitchurch,</hi> and was welcomed by the Lord <hi>Chomley,</hi> Lord <hi>Rivers,</hi> and Sir <hi>Thomas Aſton,</hi> and went towards <hi>Cheſter</hi> with 10. troups, for his guard, beſides Sir <hi>Thomas Aſtons</hi> troupe, the Maior, Aldermen and Recorder received him very lovingly; but Sir <hi>Thomas Aſtons</hi> troup com<g ref="char:EOLhyphen"/>ing after His Majeſty, met with a troupe of the Parliaments Forces, that was marching towards <hi>Shrewsbury,</hi> where there was a battell fought be<g ref="char:EOLhyphen"/>tween them, the manner whereof was as follow<g ref="char:EOLhyphen"/>eth. The Earl of <hi>Eſſex</hi> marching towards <hi>Shrews<g ref="char:EOLhyphen"/>bury</hi> with his Army by the ſide of a wood, and the brow of an hil, when he came at the bottome
+<pb n="2" facs="tcp:112223:3"/>of the hill he ſaw a great army of men, coming againſt him, and the firſt they met was a Welch Commander, who cried aloud and ſaid, Sir <hi>Tho<g ref="char:EOLhyphen"/>mas,</hi> here are the Parliaments Forces, therefore ſtand, ſtand, ſtand brave ſouldiers and be valiant. The Earl of <hi>Eſſex</hi> hearing this, went on moſt va<g ref="char:EOLhyphen"/>liantly, they being on the top of an hill, and had the advantage of us, ſo that we could not paſſe, whereupon the Earle made on towards them, but they reſiſted him and ſhot at him, and that with a great advantage, they being on the top, &amp; we on the bottome of the hill, ſo we marched up towards them, ſhooting at them with great courage and valour, that we routed them from the top of the hill in a ſtrange manner; for the Noble Earle firſt ſent up 1400. horſe, and they made ſuch work, that Sir <hi>Thomas Aſton</hi> was fain to flie with all his company, but they could not flie faſt enough, by reaſon of a paire of gates at the bottome of the hill, ſo that they could not paſſe, except a few that fled through the wood with Sir <hi>Thomas Aſton,</hi> who loſt 75. men, and but 9. on our ſide, we tooke moſt of their horſes and armes, yea Sir <hi>Thomas Aſtons</hi> horſe that was left on the wood ſide, which we call by the name of great <hi>Aſton,</hi> which goes along with us, and our Generall ſaith, it ſhalbe for the next man that he takes to ride on, the ſaddle on his back was al<g ref="char:EOLhyphen"/>moſt worn out: as we went towards <hi>Shrewsbu<g ref="char:EOLhyphen"/>ry</hi> we met 8. Regiments of horſe and Foot under the command of divers Commiſſioners of Ar<g ref="char:EOLhyphen"/>ray,
+<pb n="3" facs="tcp:112223:3"/>who fell upon us ſo fiercely, that at firſt we thought they would have got the better, but God prevented them: for they met at a heath where the battell begun, they having the wind of us, and the higher ground, yet we diſcharged ſo ſtoutly againſt them, that they could not keep their ground, but came in upon us, and we defen<g ref="char:EOLhyphen"/>ded our ſelves as well as we could, and drew out our ſwords, but they came ſo violently in, that we were one among another in ſuch a confuſed manner as is hard to be reported. At laſt our trumpeter rid forth, and ſounded his trumpet with a cheerfull and ſhrill wind, and we all re<g ref="char:EOLhyphen"/>paired to the trumpet, and there were ſcarce any but cried out, A parley, A parley; ſo at laſt not finding themſelves able to reſiſt us, yeelded to our demands and followed us. There were ſlain about 100. men on their ſide, and about 30. on ours; ſo that now we have 8. Regiments more to ſtand for us againſt the Cavaliers, ſo that we hope to ſettle the peace of the Kingdome; for we moleſt none but thoſe who trouble and ſet upon us, for we want nothing, the countrey-peo<g ref="char:EOLhyphen"/>ple give us good victuals and beer for nothing. As we paſſed along, we came neer to the river <hi>Severne,</hi> where we ſaw 9. boats going towards <hi>Shrewsbury,</hi> ſo we rid toward them, as neer as we could, asking what they were laden with, they ſaid, that they had moſt of the ammunition that came from the Papiſts in <hi>Ireland,</hi> and that they were going with all ſpeed towards <hi>Shrewsbury</hi>
+               <pb n="4" facs="tcp:112223:4"/>with it, for they thought we had been Cavali<g ref="char:EOLhyphen"/>ers; ſo we deſired to ſee what it was, and they ve<g ref="char:EOLhyphen"/>ry honeſtly came and brought it to <hi>Severn</hi> ſide, where we entred, and found 3. laden with pow<g ref="char:EOLhyphen"/>der, 2. with bullets, 1. with pikes, 2. with mus<g ref="char:EOLhyphen"/>kets, 1. with engines to ſhoot fire-balls, and we ſtopped them all from their journey, and landed them at a village within three miles of <hi>Shrews<g ref="char:EOLhyphen"/>bury,</hi> where we keep our randevouz, becauſe the weather is wet, and the waters are up, ſo that we cannot march. The Earle of Eſſex hath not yet delivered his Petition to His Majeſty, but hee hopes ere long to doe it, and now the King is gone from <hi>Cheſter</hi> towards <hi>Shrewsbury,</hi> where it is thought he intends to ſtay.</p>
+            <p>The 2. of this moneth we marched with our army to a place called <hi>Pomfret</hi> Caſtle, and when we came within a mile of it, we heard a Peece of Ordnance from the Caſtle that flew over our heads, being amazed at the report thereof, know<g ref="char:EOLhyphen"/>ing no cauſe thereof; whereupon our Captaine ſaid he would go to it, but coming neere it, we found it ſtrongly fortified, and the gates ſhut: whereupon our Captaine demanded the Caſtle, but they refuſed, and ſaid, they could keepe the Caſtle as well as we, and except we would be gone, they would ſend us going, and that wee were unwiſe to come thither: whereupon our Captaine told them, that unleſſe they would de<g ref="char:EOLhyphen"/>liver up the Caſtle upon faire demands, they would have it by force; but they derided his re<g ref="char:EOLhyphen"/>queſt,
+<pb n="5" facs="tcp:112223:4"/>bidding him do his worſt; ſo we came and intrencht our ſelves againſt the Caſtle, ſhooting at it and aſſaying to ſcale the wals for the ſpace of two houres, but all in vaine, wherefore being almoſt night we kept our ſelves in our trenches: betwixt one and two a clock at night a Poſt was ſent from the caſtle, who was diſcovered by ſix of our men which purſued after him, took him, &amp; brought him back, and one of our men ſpoke to the Captain, asking him what he would give him to obtain the Caſtle before the next day at noone, who anſwered, that he ſhould have five Marks; whereupon he deſired the Captain that he might have the Poſts cloaths, and he would warrant him the caſtle, or loſe his life: then the Captain deſired the Poſt to ſhift his cloaths, and ſo he did, and this man put the cloaths on his back, getting upon the Poſts horſe with his horn by his ſide, rid towards the caſtle and blew his horn, they being all abed, onely the Porter ſate up to wait the Poſts coming, and being joyfull he was come ſo ſoone, roſe from the fire to let him in: as ſoon as the Poſt was within the gate, hee ſtrucke up the Porters heeles, ſaying, hold thy tongue if thou love thy life, the Porter for feare durſt not ſpeak a word; then he tooke the keys from him, and bid the Porter go and call in the ſouldiers which were without, which he did; ſo when the ſouldiers came, ſome of them kept the gates, and others went up into the caſtle, and the men that were within ſaid, if they would
+<pb n="6" facs="tcp:112223:5"/>be pleaſed to ſave their lives, they would ſerve them, which our Captain willingly accepted of, and told them, if that they would ſerve him, they ſhould preſently enter into pay, and thoſe that would not, he deſired to depart; ſo ſome entred into pay, and others went away unarmed. In the morning our Captaine asked them, who was their chiefe Commander, they ſaid, Sir <hi>William Savill,</hi> who fled hither for ſhelter and refuge, but he was one that went away. So in the morning we began to ſearch the Caſtle, where we found many places furniſhed for warre, with ſeverall ſorts of Ammunition: upon the wals we found 15. Peeces of Ordnance, 500. Pikes, 700. Mus<g ref="char:EOLhyphen"/>kets, 6. barrels of powder, and 600. head-peeces, as many Corſlets, 550. Carbines, with a great yard full of bullets, pickaxes, wheele-barrowes, waggons, abundance of ſwords, and 4. quarters of wheat with other come, 3. powdering tubs full of beefe, 5. hogſheads of beer, 3. of wine, 1. of ſack, with many other things of good worth, which are now in the hands of our noble Cap<g ref="char:EOLhyphen"/>tain, who hath left a gariſon of his ſouldiers to ſecure the Caſtle.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
